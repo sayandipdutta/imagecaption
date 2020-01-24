@@ -18,7 +18,7 @@ Although it can be trained on others like Flickr30k or MS COCO
 </div>
 
 ## Performance
-The model has been trained for 20 epoches on 6000 training samples of Flickr8k Dataset. It acheives a `BLEU-1 = ~0.59` with 1000 testing samples.
+The model has been trained for 20 epochs on 6000 training samples of Flickr8k Dataset. It acheives a `BLEU-1 = ~0.59` with 1000 testing samples.
 
 ----------------------------------
 
